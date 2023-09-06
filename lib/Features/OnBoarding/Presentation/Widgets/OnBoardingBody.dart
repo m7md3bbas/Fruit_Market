@@ -4,7 +4,6 @@ import 'package:flutter/material.dart';
 import 'package:fruitsmarket/Features/OnBoarding/Presentation/Widgets/CustomButton.dart';
 import 'package:fruitsmarket/core/Utiles/Size_Config.dart';
 import 'package:fruitsmarket/core/Utiles/Styles/Styles.dart';
-import 'package:get/get.dart';
 
 class OnBoardingBodyView extends StatelessWidget {
   const OnBoardingBodyView(
